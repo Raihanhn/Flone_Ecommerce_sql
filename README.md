@@ -1,0 +1,1 @@
+Flone is a Full-Stack Ecommerce project. Where User Login, Registration, Total Orders, Total User, User Cart and Checkout system implemented with details. In word registration to checkout full process completed. I have used Mysql database for my project.
