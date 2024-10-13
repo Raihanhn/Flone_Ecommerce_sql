@@ -1,0 +1,13 @@
+.btn-custom {
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+.btn-custom:hover {
+  background-color: #218838;
+  color: white;
+}
